@@ -26,3 +26,16 @@ Ensure you have the following installed before running the script:
 - **Required Python libraries:**  
   ```sh
   pip install numpy pandas scikit-learn streamlit matplotlib seaborn
+
+---
+
+# **Output**
+![Image](https://github.com/user-attachments/assets/516eb87d-e7cb-4cfe-9230-aba1f9507fa4)
+---
+![Image](https://github.com/user-attachments/assets/c6226184-64f6-47e8-aece-8acf025aeac5)
+---
+![Image](https://github.com/user-attachments/assets/262a6d3b-cbd4-4f42-b72d-db9932f59eef)
+---
+![Image](https://github.com/user-attachments/assets/f20b271b-8551-4eb9-892d-eae1f48c180a)
+---
+![Image](https://github.com/user-attachments/assets/82109c88-612a-4475-b44c-9d9f0064e205)
