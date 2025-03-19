@@ -4,7 +4,7 @@
 
 **PROJECT IDEA BY:** TechSaksham – A joint CSR initiative of Microsoft & SAP
 
-**GUIDE:** Saomya Chaudhury 
+**GUIDE:** SAOMYA CHAUDHURY
 
 ---
 
