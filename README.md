@@ -1,7 +1,9 @@
 # PERSONAL FITNESS TRACKER
 
 **NAME:** KRISHKANTH K  
+
 **PROJECT IDEA:** TechSaksham – A joint CSR initiative of Microsoft & SAP
+
 **GUIDE:** Saomya Chaudhury 
 ---
 
