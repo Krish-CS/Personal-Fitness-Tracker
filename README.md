@@ -22,6 +22,7 @@ This project is a **Personal Fitness Tracker** that predicts calorie expenditure
 - Supports **data-driven insights** to help users monitor fitness progress.  
 
 ---
+
 ## **Prerequisites**  
 
 Ensure you have the following installed before running the script:
